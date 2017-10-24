@@ -1,3 +1,8 @@
+#### Name: [David Devor](https://github.com/DrJunkenstein)
+ - Place: Florida, USA
+ - Bio: SEO & Aspiring Web Developer
+ - GitHub: [DrJunkenstein](https://github.com/DrJunkenstein)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
