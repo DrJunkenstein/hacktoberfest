@@ -1,5 +1,9 @@
-<!doctype html>
+// LANGUAGE: HTML
+// ENV: Unknown
+// AUTHOR: David Devor
+// GITHUB: https://github.com/DrJunkenstein
 
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
